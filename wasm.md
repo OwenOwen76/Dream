@@ -9,7 +9,7 @@ cargo install wasm-bindgen-cli
 
 ```sh
 cargo build --target wasm32-unknown-unknown --release
-wasm-bindgen --out-dir pkg --target no-modules target/wasm32-unknown-unknown/release/My_Game.wasm
+wasm-bindgen --out-dir pkg --target no-modules target/wasm32-unknown-unknown/release/Dream.wasm
 ```
 
 ## Serve
