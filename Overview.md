@@ -1,4 +1,4 @@
-# Dreams: An Overview
+# Dream: An Overview
 By: ME! a solo dev
 
 ### 1. Core Identity & Gameplay Loop
@@ -20,7 +20,7 @@ Each cycle encourages exploration, resource gathering, quest completion, and cha
 
 ### 2. Systems & Mechanics
 
-#### Progression (The “Virus” System):
+#### Progression:
 The player collects weapons, food, and survival tools, alongside unique “memory fragments” tied to story progression. While these function like traditional RPG upgrades, they represent pieces of a traumatic memory.
 
 As the player becomes stronger:
