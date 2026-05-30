@@ -116,8 +116,7 @@ The player defeats the original version.
 
 * The traumatic memory become too much
 * The world collapses, I have an idea for gameplay reason where there'll be exact 30min countdown before the world is gone, during which there's special enemies/bosses
-* The Dreamer dies, this should end with, after the 30min countdown, a cardiac monitor showing the heart stops, either fades out or have something after.
-* I think I might change this, it's too black-and-white for this game
+* The Dreamer wakes up, but she is different, changed forever, a shadow of her former self, chained to the past by her trauma. Maybe she commit suicide, or it might be too dark. 
 
 #### Sacrifice:
 The player allows the original version to erase them.
