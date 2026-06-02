@@ -161,5 +161,5 @@ Possible option on the horizon.
 * Combat and collision is being worked on right now
 * NPC dialog system has a 1-NPC MVP version that read limited keyword and creates dynamic response, this is very much a work in progress and is much harder than I thought
 * There a fully functional pause menu and loading screen because why not
-* A web version (very bad, outdated) [here](https://owenowen76.github.io/)
+* A web version (very bad, could be outdated) [here](https://owenowen76.github.io/)
 * TO BE UPDATED
