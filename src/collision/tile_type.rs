@@ -10,6 +10,7 @@ pub enum TileType {
     DarkGrass,
     Shore,
     SmallDecors,
+    Bushes,
     //Non-Walkable
     Water,
     Tree,

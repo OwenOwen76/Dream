@@ -31,5 +31,6 @@ fn main() {
         .add_plugins(characters::CharactersPlugin)
         .add_plugins(camera::CameraPlugin)
         .add_plugins(debug::DebugPlugin)
+        .add_plugins(collision::CollisionPlugin)
         .run();
 }
