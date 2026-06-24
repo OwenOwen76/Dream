@@ -5,6 +5,7 @@ edition = "2024"
 readme = "README.md"
 
 [dependencies]
+avian2d = "0.7"
 bevy = "0.19"
 bevy_common_assets = { version = "0.17", features = ["ron"] }
 serde = { version = "1", features = ["derive"] }
