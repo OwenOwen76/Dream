@@ -24,7 +24,7 @@ pub fn spawn_loading_screen(mut commands: Commands) {
                 LoadingText,
                 Text::new("Loading..."),
                 TextFont {
-                    font_size: 48.0,
+                    font_size: bevy::prelude::FontSize::Px(48.0),
                     ..default()
                 },
                 TextColor(Color::WHITE),
