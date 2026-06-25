@@ -6,7 +6,7 @@ By: ME! a solo dev
 ##### Genre: 2D Singleplayer Top-Down Procedural Survival RPG 
 
 ##### Core Gameplay:
-This is a 2D Singleplayer Top-Down Procedural Survival RPG, where the player explores an open, procedurally generated world, engaging in real-time combat, gathering resources, completing quests, and interacting with NPCs, and uncover the secrets of this world. Each in-game day lasts approximately 30 minutes and ends at Midnight, where the entire world resets with a new procedural seed.
+This is a 2D Singleplayer Top-Down Procedural Survival RPG, where the player explores an open, procedurally generated world, engaging in real-time combat, gathering resources, completing quests, and interacting with NPCs, and uncover the secrets of this world. Each in-game day lasts 30 minutes and ends at Midnight, where the entire world resets with a new procedural seed.
 
 ##### The Midnight Reset:
 The world is a fractured mind attempting to reconstruct the reality it knows. Each reset is the brain trying to “solve” itself. The player is unknowingly disrupting this and causing this process to fail every cycle.
