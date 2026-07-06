@@ -7,6 +7,7 @@ mod npc;
 mod pathfinding;
 mod state;
 
+use avian2d::prelude::*;
 use bevy::{
     prelude::*,
     window::{Window, WindowPlugin, WindowResolution},
@@ -14,7 +15,7 @@ use bevy::{
 
 fn main() {
     App::new()
-        .add_plugins(
+        .add_plugins((
             DefaultPlugins
                 .set(WindowPlugin {
                     primary_window: Some(Window {
@@ -25,12 +26,14 @@ fn main() {
                     ..default()
                 })
                 .set(ImagePlugin::default_nearest()),
-        )
-        .add_plugins(state::StatePlugin)
-        .add_plugins(map::MapPlugin)
-        .add_plugins(characters::CharactersPlugin)
-        .add_plugins(camera::CameraPlugin)
-        .add_plugins(debug::DebugPlugin)
-        .add_plugins(collision::CollisionPlugin)
+            PhysicsPlugins::default(),
+            PhysicsDebugPlugin,
+            state::StatePlugin,
+            map::MapPlugin,
+            characters::CharactersPlugin,
+            camera::CameraPlugin,
+            debug::DebugPlugin,
+            collision::CollisionPlugin,
+        ))
         .run();
 }
